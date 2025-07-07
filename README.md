@@ -53,8 +53,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksaska&theme=radical" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maksaska&theme=radical" alt="Commit Productivity" />
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maksaska&theme=radical" alt="Stats Radar" />
 </p>
 
